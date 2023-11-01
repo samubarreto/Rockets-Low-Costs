@@ -5,7 +5,8 @@
 
 ## 💎 Fontes
   [Live Coding: React, Fernanda Kipper](https://www.youtube.com/watch?v=lq7b8uZULs4)<br>
-  [Live Conding: Node, Fernanda Kipper](https://www.youtube.com/watch?v=GVF--Rl3bP4)
+  [React Tutorial for Beginners, Programming with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)<br>
+  [Live Conding: Node, Fernanda Kipper](https://www.youtube.com/watch?v=GVF--Rl3bP4)<br>
 
 ## [📧 Contato](https://linktr.ee/sampereirabrt)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
