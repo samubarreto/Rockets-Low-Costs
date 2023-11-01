@@ -1,7 +1,7 @@
 <div align='center'>
 
   # 🚀 Rockets-Low-Costs
-  Aplicação Web feita com React e Node como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias e segui o curso de React | Node | Mongo DB do canal code zero.
+  Aplicação Web feita com React e Node como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias e segui o curso de React | Node | Mongo DB do Heudman Lima, do canal code zero.
 
 ## 💎 Fontes
   [Curso de React do Heudmann Lima - code zero](https://www.youtube.com/watch?v=hK59KYwQP3U&list=PL0QN_lbTofYcw7bzm8y-l2BMslKfMfNgr)
