@@ -4,7 +4,7 @@
   Aplicação Web feita com React e Node como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias.
 
 ## 💎 Fontes
-  [Live Coding: React, Fernanda Kipper](https://www.youtube.com/watch?v=lq7b8uZULs4)
+  [Live Coding: React, Fernanda Kipper](https://www.youtube.com/watch?v=lq7b8uZULs4)<br>
   [Live Conding: Node, Fernanda Kipper](https://www.youtube.com/watch?v=GVF--Rl3bP4)
 
 ## [📧 Contato](https://linktr.ee/sampereirabrt)
