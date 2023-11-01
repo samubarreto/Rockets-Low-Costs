@@ -4,7 +4,7 @@
   Aplicação Web feita com React e Node como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias, farei tudo seguindo alguns tutoriais que encontrar pela internet.
 
 ## 💎 Fontes
-  [Curso de React do Matheus Battisti - Hora de codar (Clique aqui)](youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
+  [Curso de React do Matheus Battisti - Hora de codar](youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 
 ## [📧 Contato](https://linktr.ee/sampereirabrt)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
