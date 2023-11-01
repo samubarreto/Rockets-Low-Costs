@@ -3,6 +3,9 @@
   # 🚀 Rockets-Low-Costs
   Aplicação Web feita com React e Node como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias.
 
+## 💎 Fontes
+  [Live Coding: React, Fernanda Kipper](https://www.youtube.com/watch?v=lq7b8uZULs4)
+
 ## [📧 Contato](https://linktr.ee/sampereirabrt)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
   [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/samubarreto)
