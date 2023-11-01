@@ -3,9 +3,6 @@
   # 🚀 Rockets-Low-Costs
   Aplicação Web feita com React e Node como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias e segui a imersão NLW da Rocketseat.
 
-## 💎 Fontes
-  [Curso de React do Heudmann Lima - code zero](https://www.youtube.com/watch?v=hK59KYwQP3U&list=PL0QN_lbTofYcw7bzm8y-l2BMslKfMfNgr)
-
 ## [📧 Contato](https://linktr.ee/sampereirabrt)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
   [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/samubarreto)
