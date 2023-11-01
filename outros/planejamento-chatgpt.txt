@@ -1,48 +1,41 @@
-Guia dado pelo chatgpt:
+Essa abordagem faz sentido e é uma maneira prática de lidar com o desenvolvimento de um projeto onde você precisa aprender novas tecnologias, como React, MongoDB e Node.js. Dividir o projeto em etapas é uma abordagem eficaz para enfrentar desafios técnicos desconhecidos.
 
-1. Preparação:
+Aqui está um plano simplificado que você pode seguir:
 
-Instale o NodeJS, ReactJS, e o MongoDB em seu sistema, se ainda não estiverem instalados.
+**Passo 1: Aprenda React e Construa o Frontend**
 
-2. Criação do Banco de Dados:
+1. Comece aprendendo React, familiarizando-se com os conceitos básicos, componentes, roteamento, estado, etc. Você pode usar tutoriais, cursos online ou a documentação oficial do React.
 
-Configure e inicie um servidor MongoDB local ou em nuvem.
-Crie um banco de dados para armazenar os dados do projeto, como usuários, cotações de lançamento e lançamentos de foguetes.
+2. Enquanto aprende React, crie o frontend da sua aplicação com base nos protótipos do Figma. Concentre-se em criar as visualizações e interações de usuário de acordo com os requisitos do projeto.
 
-3. Backend em NodeJS:
+3. Use dados simulados ou dados estáticos temporários para testar o frontend enquanto você não tem o backend configurado.
 
-Crie um projeto NodeJS.
-Defina os modelos de dados para usuários, cotações de lançamento e lançamentos de foguetes, com os campos especificados nas regras de negócios.
-Configure as rotas para criar, ler, editar e excluir cotações de lançamento e lançamentos de foguetes.
-Implemente a autenticação de usuários com nome e idade.
-Utilize as APIs fornecidas (Launches e Rockets) para obter informações relevantes sobre lançamentos e foguetes.
-Conecte o backend ao banco de dados MongoDB para armazenar as informações.
+**Passo 2: Aprenda Node.js, MongoDB e Construa o Backend**
 
-4. Frontend em ReactJS:
+1. Depois de estar mais confortável com o frontend do React, comece a aprender Node.js e MongoDB. Você pode usar tutoriais, cursos online ou a documentação oficial de ambas as tecnologias.
 
-Crie um projeto ReactJS.
-Desenvolva as páginas e componentes com base no wireframe fornecido.
-Integre o frontend com o backend, chamando as rotas para criar, ler, editar e excluir cotações de lançamento e lançamentos de foguetes.
-Implemente a autenticação do usuário e a exibição da idade após a autenticação.
+2. À medida que aprende Node.js, comece a construir o backend da aplicação. Isso inclui a configuração de rotas, autenticação de usuário (usando nome e idade) e comunicação com o MongoDB para realizar operações de criação, leitura, atualização e exclusão (CRUD) de dados.
 
-5. Diferenciais:
+3. Configure as coleções no MongoDB (users, rockets e launches) com a estrutura de campos necessária.
 
-Hospede o projeto online. Você pode usar serviços como Vercel para o frontend e Heroku para o backend.
-Implemente um middleware de log de requisições para registrar as interações com o sistema.
-Crie uma documentação na README.md que explique como executar o projeto, suas funcionalidades e qualquer informação relevante.
-Considere o uso de Chakra-UI, NextJS e Typescript para melhorar a qualidade do projeto.
+**Passo 3: Integração e Teste**
 
-6. Testes:
+1. Integre o frontend (React) com o backend (Node.js). Atualize seu frontend para fazer solicitações HTTP ao backend para buscar e enviar dados.
 
-Realize testes unitários e de integração para garantir que o sistema funcione conforme o esperado.
+2. Teste o sistema como um todo, garantindo que o frontend se comunique efetivamente com o backend, e que todas as funcionalidades estejam operando conforme o esperado.
 
-7. Versionamento e Repositório:
+**Passo 4: Aprimore e Refine**
 
-Crie um repositório no GitHub, Bitbucket ou outro serviço de controle de versão.
-Envie seu código-fonte para o repositório, garantindo que a estrutura do projeto seja organizada e fácil de entender.
+1. Continue aprendendo e aprimorando suas habilidades à medida que desenvolve o projeto. Às vezes, é necessário ajustar o código ou a estrutura do banco de dados para atender a requisitos específicos do projeto.
 
-8. Validação e Envio:
+2. Documente seu trabalho à medida que avança, tanto no código quanto na criação de uma README.md para facilitar a compreensão do projeto.
 
-Envie o link do repositório para a pessoa responsável pelo projeto após a conclusão.
-Certifique-se de que o prazo de envio seja respeitado (5 dias após o recebimento do e-mail).
-Lembre-se de que este é um projeto abrangente e pode exigir um tempo considerável para ser concluído. Certifique-se de planejar bem e dividir as tarefas em etapas menores para facilitar o desenvolvimento. Boa sorte com seu projeto "Rockets Low Costs"!
+**Observações Importantes:**
+
+- Lembre-se de que aprender novas tecnologias leva tempo, e é normal enfrentar desafios ao longo do caminho. Não tenha medo de pesquisar, fazer perguntas e cometer erros. A prática é fundamental.
+
+- Esteja ciente do prazo e planeje suas etapas de desenvolvimento de acordo com o tempo disponível.
+
+- Se possível, encontre recursos online, fóruns ou grupos de estudo para obter suporte e tirar dúvidas à medida que você avança.
+
+Seguindo esse plano, você poderá desenvolver gradualmente sua aplicação, aprender novas tecnologias e entregar um projeto funcional dentro do prazo estipulado.
