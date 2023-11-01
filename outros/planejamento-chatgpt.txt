@@ -1,0 +1,48 @@
+Guia dado pelo chatgpt:
+
+1. Preparação:
+
+Instale o NodeJS, ReactJS, e o MongoDB em seu sistema, se ainda não estiverem instalados.
+
+2. Criação do Banco de Dados:
+
+Configure e inicie um servidor MongoDB local ou em nuvem.
+Crie um banco de dados para armazenar os dados do projeto, como usuários, cotações de lançamento e lançamentos de foguetes.
+
+3. Backend em NodeJS:
+
+Crie um projeto NodeJS.
+Defina os modelos de dados para usuários, cotações de lançamento e lançamentos de foguetes, com os campos especificados nas regras de negócios.
+Configure as rotas para criar, ler, editar e excluir cotações de lançamento e lançamentos de foguetes.
+Implemente a autenticação de usuários com nome e idade.
+Utilize as APIs fornecidas (Launches e Rockets) para obter informações relevantes sobre lançamentos e foguetes.
+Conecte o backend ao banco de dados MongoDB para armazenar as informações.
+
+4. Frontend em ReactJS:
+
+Crie um projeto ReactJS.
+Desenvolva as páginas e componentes com base no wireframe fornecido.
+Integre o frontend com o backend, chamando as rotas para criar, ler, editar e excluir cotações de lançamento e lançamentos de foguetes.
+Implemente a autenticação do usuário e a exibição da idade após a autenticação.
+
+5. Diferenciais:
+
+Hospede o projeto online. Você pode usar serviços como Vercel para o frontend e Heroku para o backend.
+Implemente um middleware de log de requisições para registrar as interações com o sistema.
+Crie uma documentação na README.md que explique como executar o projeto, suas funcionalidades e qualquer informação relevante.
+Considere o uso de Chakra-UI, NextJS e Typescript para melhorar a qualidade do projeto.
+
+6. Testes:
+
+Realize testes unitários e de integração para garantir que o sistema funcione conforme o esperado.
+
+7. Versionamento e Repositório:
+
+Crie um repositório no GitHub, Bitbucket ou outro serviço de controle de versão.
+Envie seu código-fonte para o repositório, garantindo que a estrutura do projeto seja organizada e fácil de entender.
+
+8. Validação e Envio:
+
+Envie o link do repositório para a pessoa responsável pelo projeto após a conclusão.
+Certifique-se de que o prazo de envio seja respeitado (5 dias após o recebimento do e-mail).
+Lembre-se de que este é um projeto abrangente e pode exigir um tempo considerável para ser concluído. Certifique-se de planejar bem e dividir as tarefas em etapas menores para facilitar o desenvolvimento. Boa sorte com seu projeto "Rockets Low Costs"!
