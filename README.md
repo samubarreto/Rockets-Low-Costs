@@ -1,11 +1,12 @@
 <div align='center'>
 
   # 🚀 Rockets-Low-Costs
-  Aplicação Web feita com React, Node e MongoDB como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias.
+  Aplicação Web feita com Typescript, React, Node e MongoDB como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias.
 
 ## 💎 Fontes
   [Live Coding: React, Fernanda Kipper](https://www.youtube.com/watch?v=lq7b8uZULs4)<br>
-  [Live Conding: Node, Fernanda Kipper](https://www.youtube.com/watch?v=GVF--Rl3bP4)
+  [React Tutorial for Beginners, Programming with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)<br>
+  [Live Conding: Node, Fernanda Kipper](https://www.youtube.com/watch?v=GVF--Rl3bP4)<br>
 
 ## [📧 Contato](https://linktr.ee/sampereirabrt)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
@@ -17,6 +18,7 @@
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.linkedin.com/in/samubrreto/)<br>
+  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://www.linkedin.com/in/samubrreto/)
   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br>
