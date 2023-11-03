@@ -2,7 +2,7 @@ Essa abordagem faz sentido e é uma maneira prática de lidar com o desenvolvime
 
 Aqui está um plano simplificado que você pode seguir:
 
-**Passo 1: Aprenda React e Construa o Frontend**
+-> PASSO 1: Aprenda React e Construa o Frontend (SEGUIR ESSE CURSO: https://www.youtube.com/watch?v=SqcY0GlETPk)
 
 1. Comece aprendendo React, familiarizando-se com os conceitos básicos, componentes, roteamento, estado, etc. Você pode usar tutoriais, cursos online ou a documentação oficial do React.
 
@@ -10,7 +10,7 @@ Aqui está um plano simplificado que você pode seguir:
 
 3. Use dados simulados ou dados estáticos temporários para testar o frontend enquanto você não tem o backend configurado.
 
-**Passo 2: Aprenda Node.js, MongoDB e Construa o Backend**
+-> PASSO 2: Aprenda Node.js, MongoDB e Construa o Backend
 
 1. Depois de estar mais confortável com o frontend do React, comece a aprender Node.js e MongoDB. Você pode usar tutoriais, cursos online ou a documentação oficial de ambas as tecnologias.
 
@@ -18,19 +18,19 @@ Aqui está um plano simplificado que você pode seguir:
 
 3. Configure as coleções no MongoDB (users, rockets e launches) com a estrutura de campos necessária.
 
-**Passo 3: Integração e Teste**
+-> PASSO 3: Integração e Teste
 
 1. Integre o frontend (React) com o backend (Node.js). Atualize seu frontend para fazer solicitações HTTP ao backend para buscar e enviar dados.
 
 2. Teste o sistema como um todo, garantindo que o frontend se comunique efetivamente com o backend, e que todas as funcionalidades estejam operando conforme o esperado.
 
-**Passo 4: Aprimore e Refine**
+-> PASSO 4: Aprimore e Refine
 
 1. Continue aprendendo e aprimorando suas habilidades à medida que desenvolve o projeto. Às vezes, é necessário ajustar o código ou a estrutura do banco de dados para atender a requisitos específicos do projeto.
 
 2. Documente seu trabalho à medida que avança, tanto no código quanto na criação de uma README.md para facilitar a compreensão do projeto.
 
-**Observações Importantes:**
+Observações Importantes:
 
 - Lembre-se de que aprender novas tecnologias leva tempo, e é normal enfrentar desafios ao longo do caminho. Não tenha medo de pesquisar, fazer perguntas e cometer erros. A prática é fundamental.
 
