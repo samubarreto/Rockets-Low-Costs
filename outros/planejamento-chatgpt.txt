@@ -2,7 +2,7 @@ Essa abordagem faz sentido e é uma maneira prática de lidar com o desenvolvime
 
 Aqui está um plano simplificado que você pode seguir:
 
--> PASSO 1: Aprenda React e Construa o Frontend (SEGUIR ESSE CURSO: https://www.youtube.com/watch?v=SqcY0GlETPk)
+-> PASSO 1: Aprenda React e Construa o Frontend (https://www.youtube.com/watch?v=cd3P3yXyx30)
 
 1. Comece aprendendo React, familiarizando-se com os conceitos básicos, componentes, roteamento, estado, etc. Você pode usar tutoriais, cursos online ou a documentação oficial do React.
 
