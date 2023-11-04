@@ -1,7 +1,7 @@
 <div align='center'>
 
   # 🚀 Rockets-Low-Costs
-  Aplicação Web feita com Typescript, React, Node e MongoDB como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias.
+  Aplicação Web feita em Typescript com React, Node e MongoDB como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias.
 
 ## 💎 Fontes
   [Live Coding: React, Fernanda Kipper](https://www.youtube.com/watch?v=lq7b8uZULs4)<br>
