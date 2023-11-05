@@ -4,9 +4,6 @@
   Aplicação Web feita em Typescript com React, Node e MongoDB como teste para a empresa Sete Digital. Esse foi meu primeiro contato com essas tecnologias.
 
 ## 💎 Fontes
-  [Live Coding: React, Fernanda Kipper](https://www.youtube.com/watch?v=lq7b8uZULs4)<br>
-  [React Tutorial for Beginners, Programming with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)<br>
-  [Live Conding: Node, Fernanda Kipper](https://www.youtube.com/watch?v=GVF--Rl3bP4)<br>
   [React JS Tutorial - Basic to Advance (2023), Nerd's lesson](https://www.youtube.com/watch?v=cd3P3yXyx30)<br>
 
 ## [📧 Contato](https://linktr.ee/sampereirabrt)
