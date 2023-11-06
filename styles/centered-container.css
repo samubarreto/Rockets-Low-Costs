@@ -1,0 +1,19 @@
+.centered-container {
+  background: #b6b6b6;
+  padding: 3.5em 2.5em;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+  gap: 15px;
+}
+
+.green-button {
+  color: #fff;
+  background: #54ce4c;
+  cursor: pointer;
+  font-size: medium;
+  padding: 2rem 8.2rem;
+  border: none;
+  border-radius: 8px;
+}
