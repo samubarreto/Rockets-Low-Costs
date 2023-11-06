@@ -1,7 +1,7 @@
 <div align="center">
 
   # Rockets-Low-Costs
-  Tentativa de aplicação Web feita em Typescript com React, Node e MongoDB. Esse está sendo meu primeiro contato com essas tecnologias, estou tentando aprender e fazer, começando o estudo pelo React.<br>
+  Tentativa de aplicação Web feita em Typescript com React, Node e MongoDB. Esse está sendo meu primeiro contato com essas tecnologias, estou tentando aprender e fazer, começando o estudo pelo React.<br><br>
   No momento, tenho apenas um clone da prototipagem, feito com html e css.
   
   ## [📁 Meu Portfólio](https://github.com/samubarreto/Portfolio)
