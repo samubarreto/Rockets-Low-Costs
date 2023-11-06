@@ -15,7 +15,7 @@
 
     <link rel="icon" href="source/rocket-icon.png">
     <link rel="stylesheet" href="styles/general.css">
-    <link rel="stylesheet" href="styles/cards-container.css">
+    <link rel="stylesheet" href="styles/cards-container1.css">
 
     <title>Rockets Low Costs</title>
 
@@ -29,17 +29,17 @@
       <h1>Olá Sete, Selecione o lançamento:</h1>
     </div>
     
-    <div class="cards-container">
+    <div class="cards-container1">
       <div class="card">
         <img src="source/launch1.jpg" alt="rocket-launch" class="rocket-img">
         <p class="rocket-stats-p">Nome do Foguete</p>
         <p class="rocket-stats-p">Nome da Missão</p>
         <p class="rocket-stats-p">Ano de Lançamento</p>
-        <div style="display: grid; place-items: center;">
-          <button class="green-button">
+        <a href="settingRocket.html" style="display: grid; place-items: center;">
+          <button class="green-button" onclick="rocketChoice('1')">
             LANÇAR FOGUETE
           </button>
-        </div>
+        </a>
       </div>
 
       <div class="card">
@@ -47,11 +47,11 @@
         <p class="rocket-stats-p">Nome do Foguete</p>
         <p class="rocket-stats-p">Nome da Missão</p>
         <p class="rocket-stats-p">Ano de Lançamento</p>
-        <div style="display: grid; place-items: center;">
-          <button class="green-button">
+        <a href="settingRocket.html" style="display: grid; place-items: center;">
+          <button class="green-button" onclick="rocketChoice('2')">
             LANÇAR FOGUETE
           </button>
-        </div>
+        </a>
       </div>
 
       <div class="card">
@@ -59,14 +59,12 @@
         <p class="rocket-stats-p">Nome do Foguete</p>
         <p class="rocket-stats-p">Nome da Missão</p>
         <p class="rocket-stats-p">Ano de Lançamento</p>
-        <div style="display: grid; place-items: center;">
-          <button class="green-button">
+        <a href="settingRocket.html" style="display: grid; place-items: center;">
+          <button class="green-button" onclick="rocketChoice('3')">
             LANÇAR FOGUETE
           </button>
-        </div>
+        </a>
       </div>
     </div>
-
-    <script src="scripts.ts"></script>
   </body>
 </html>
