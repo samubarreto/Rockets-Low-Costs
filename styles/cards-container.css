@@ -1,0 +1,51 @@
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.card {
+  border: 1px #cccccc solid;
+  border-radius: 8px;
+  background: #f8f8f8;
+  overflow: hidden;
+  max-width: 25vw;
+}
+
+.rocket-img {
+  height: 290px;
+  image-rendering: crisp-edges;
+}
+
+.green-button {
+  color: #fff;
+  background: #54ce4c;
+  cursor: pointer;
+  font-size: medium;
+  padding: 5vh 0;
+  margin: 0 0 20px 0;
+  width: 90%;
+  border: none;
+  border-radius: 8px;
+}
+
+.small {
+  padding: 1rem 0;
+  width: 90px;
+  margin: 0 20px 0 0;
+  border-radius: 15px;
+}
+
+.rocket-stats-p {
+  margin: 22px;
+}
+
+@media (max-width: 1366px) {
+
+  .rocket-img {
+    height: 25vh;
+  }
+
+}

@@ -22,15 +22,23 @@ a {
 }
 
 .bodyComplex {
+  height: 100vh;
+  padding: 5rem 7rem;
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
+  gap: 8vh;
+}
+
+h1 {
+  font-size: 3.3rem;
 }
 
 input {
   font-size: medium;
   padding: 2rem 1.5rem;
   display: inline-block;
-  border: solid #404040 1px;
+  border: solid #898989 1px;
   border-radius: 8px;
   width: 20rem;
 }
